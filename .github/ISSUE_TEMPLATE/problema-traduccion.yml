@@ -1,0 +1,63 @@
+name: Problema con la traducción
+description: Informa de un texto sin traducir, error del instalador o problema de compatibilidad.
+title: "[ERROR] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por ayudar a mejorar la traducción de BLACKWOOD al español.
+
+  - type: input
+    id: translation_version
+    attributes:
+      label: Versión de la traducción
+      placeholder: "Ejemplo: v1.0.3"
+    validations:
+      required: true
+
+  - type: input
+    id: game_version
+    attributes:
+      label: Versión o fecha de BLACKWOOD
+      description: Si no conoces el número exacto, indica cuándo se actualizó aproximadamente.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: problem_type
+    attributes:
+      label: Tipo de problema
+      options:
+        - Texto sin traducir
+        - Traducción incorrecta
+        - Error del instalador
+        - Error al desinstalar
+        - Problema tras una actualización de Steam
+        - Otro
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Dónde ocurre
+      description: Indica menú, misión, pantalla, diálogo o zona del juego.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción
+      description: Explica qué ocurre y qué esperabas que ocurriera.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Captura, vídeo o diagnóstico
+      description: Arrastra aquí una captura o añade la información útil del diagnóstico.
+    validations:
+      required: false
