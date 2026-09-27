@@ -6,6 +6,20 @@ Traducción **no oficial** de **BLACKWOOD** al español de España, realizada po
 > **Plataforma:** Windows / Steam  
 > **Idioma:** Español de España (es-ES)
 
+## ⚠️ Instrucciones importantes
+
+**La versión correcta es la v1.0.4.** La release histórica v1.0.3 no es la descarga recomendada.
+
+1. Entra en **Code → Download ZIP** para descargar el repositorio completo.
+2. Descomprime el ZIP.
+3. Abre la carpeta `downloads`.
+4. Ejecuta `INSTALAR_V1.0.4.cmd`.
+5. No descargues solo una parte `.001`, `.002`, `.003`, `.004` o `.005`: deben estar las cinco partes en la misma carpeta.
+6. El instalador las reunirá y comprobará automáticamente. No las renombres ni las unas manualmente.
+7. Si ya tenías otra traducción instalada, verifica primero la integridad de BLACKWOOD en Steam.
+8. Cuando el instalador lo pida, selecciona la carpeta que contiene `Blackwood.exe` y `Blackwood_Data`.
+9. Mantén activada la copia de seguridad y pulsa **Instalar / reinstalar**.
+
 ## Descargar
 
 La versión actual está publicada en la carpeta **downloads** del repositorio. La release histórica v1.0.3 se conserva sin cambios:
