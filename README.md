@@ -51,9 +51,11 @@ Algunos carteles, pósteres, anuncios y gráficos puramente decorativos pueden p
 
 El instalador no está firmado con un certificado comercial de firma de código. Por ese motivo, Windows SmartScreen o algunos antivirus pueden mostrar una advertencia.
 
-Comprueba siempre el SHA-256 publicado en este repositorio y en la Release antes de ejecutar el archivo.
+Comprueba siempre el SHA-256 publicado en este repositorio antes de ejecutar el archivo.
 
-## Integridad — v1.0.4
+## Integridad — v1.0.3 (release histórica)
+
+Los hashes siguientes corresponden únicamente a la release histórica v1.0.3:
 
 **EXE**
 
@@ -66,6 +68,16 @@ c2b8bdc2f327cceca3fdda13128d13339ce79d96c7bc8d909c1a09bbb9a11c18
 ```
 1f60fe9fd003019648662d61153ea59d5f33308f25674d423ed1f56511fb93b5
 ```
+
+## Integridad — v1.0.4
+
+SHA-256 del paquete V13 reconstruido por `downloads/INSTALAR_V1.0.4.cmd`:
+
+```
+88c29acabee2e5c23aa4ed11fa68375ed291ca8338fbaab954ce224ece0f0344
+```
+
+El instalador comprueba este hash antes de extraer y ejecutar la traducción.
 
 También puedes consultar [SHA256SUMS.txt](SHA256SUMS.txt).
 
