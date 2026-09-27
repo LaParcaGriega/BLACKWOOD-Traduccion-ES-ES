@@ -2,19 +2,19 @@
 
 Traducción **no oficial** de **BLACKWOOD** al español de España, realizada por **Parca Griega**.
 
-> **Versión actual:** v1.0.3  
+> **Versión actual:** v1.0.4  
 > **Plataforma:** Windows / Steam  
 > **Idioma:** Español de España (es-ES)
 
 ## Descargar
 
-La descarga pública se distribuirá desde **GitHub Releases**:
+La versión actual está publicada en la carpeta **downloads** del repositorio. La release histórica v1.0.3 se conserva sin cambios:
 
-**[Ir a la última versión](../../releases/latest)**
+**[Abrir la carpeta de descargas](downloads/)**
 
 Archivo recomendado:
 
-`BLACKWOOD_Traduccion_ES-ES_ParcaGriega_v1.0.3_EXE_PUBLICA.zip`
+`INSTALAR_V1.0.4.cmd` dentro de `downloads/`
 
 ## Qué está traducido
 
@@ -32,8 +32,8 @@ Algunos carteles, pósteres, anuncios y gráficos puramente decorativos pueden p
 ## Instalación
 
 1. Cierra **BLACKWOOD** completamente.
-2. Descarga y descomprime el ZIP de la última Release.
-3. Ejecuta `BLACKWOOD_Traduccion_ES-ES_ParcaGriega_v1.0.3.exe`.
+2. Descarga y descomprime el ZIP completo del repositorio.
+3. Abre la carpeta `downloads` y ejecuta `INSTALAR_V1.0.4.cmd`.
 4. Comprueba que la carpeta mostrada sea la instalación de BLACKWOOD.
 5. Mantén activada la **copia de seguridad**.
 6. Pulsa **Instalar / reinstalar**.
@@ -53,7 +53,7 @@ El instalador no está firmado con un certificado comercial de firma de código.
 
 Comprueba siempre el SHA-256 publicado en este repositorio y en la Release antes de ejecutar el archivo.
 
-## Integridad — v1.0.3
+## Integridad — v1.0.4
 
 **EXE**
 
@@ -96,3 +96,12 @@ Esta es una traducción realizada por fans y **no es oficial**.
 **Parca Griega** no está afiliado con Steam ni con los desarrolladores o propietarios de BLACKWOOD.
 
 BLACKWOOD, Steam y las marcas relacionadas pertenecen a sus respectivos propietarios.
+
+
+## Paquete v1.0.4 basado en V13
+
+SHA-256 del paquete reconstruido por el instalador:
+
+88c29acabee2e5c23aa4ed11fa68375ed291ca8338fbaab954ce224ece0f0344
+
+El instalador comprueba el hash antes de extraer y ejecutar la traducción.

@@ -1,5 +1,13 @@
 # Historial de cambios
 
+## v1.0.4
+
+- Nueva distribución basada en el instalador V13 corregido.
+- Protección frente a bases mezcladas o restauraciones incompletas.
+- Conserva las copias anteriores y las correcciones funcionales de la tienda DVD.
+- El paquete distribuido se verifica mediante SHA-256 antes de instalar.
+
+
 ## v1.0.3
 
 - Primera versión pública preparada para distribución.
