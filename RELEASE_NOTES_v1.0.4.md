@@ -10,7 +10,7 @@ Versión pública actualizada basada en el instalador V13 corregido.
 - Subtítulos y diálogos.
 - Tutoriales, avisos y botones.
 - Tienda, inventario, ropa, dinero y otros elementos funcionales.
-- Correcciones funcionales conservadas: дн. a días y Fist and Flames a Puños y Llamas.
+- Correcciones funcionales conservadas: дн. → días y Fist and Flames → Puños y Llamas.
 
 Los carteles, pósteres, anuncios y otros gráficos puramente decorativos pueden permanecer en inglés.
 
